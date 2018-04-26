@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id     = "edu.uab.business.studentapp"
+    versionCode = "0.0.1">
+    
+<!-- versionCode is optional and Android only -->
+
+<name>Zeeshan Charania Exam 2 Problem</name>
+
+<description>
+    Exam 2 Problem Mobile Application
+</description>
+
+<author>
+    Zeeshan Charania
+</author>
+
+<preference name="phonegap-version" value="cli-7.0.1" />
+<plugin name="cordova-plugin-whitelist" source="npm" />
+<access origin="*" />
+
+</widget>
